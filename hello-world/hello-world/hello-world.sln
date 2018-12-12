@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{132E3C2C-8D7D-4E6C-9684-E3544B7965E0}"
+	ProjectSection(SolutionItems) = preProject
+		..\src\hello_world.c = ..\src\hello_world.c
+		..\src\hello_world.h = ..\src\hello_world.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11C4FDA9-383D-4E26-B1B8-CD195E947B5E}
+	EndGlobalSection
+EndGlobal
